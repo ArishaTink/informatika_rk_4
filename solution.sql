@@ -1,5 +1,7 @@
 CREATE DATABASE informatika_rk_4;
 
+USE informatika_rk_4;
+
 CREATE TABLE products (
 id SERIAL PRIMARY KEY,
 name VARCHAR(50),
